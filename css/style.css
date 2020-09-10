@@ -30,3 +30,7 @@ body {
 #showcase p {
   font-size: 1.3rem;
 }
+
+#showcase .button {
+  font-size: 1.4rem;
+}
