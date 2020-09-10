@@ -20,11 +20,13 @@ body {
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  text-align: center;
   padding: 0 2rem;
 }
 
 #showcase h1 {
   font-size: 3rem;
+  line-height: 1.2;
 }
 
 #showcase p {
