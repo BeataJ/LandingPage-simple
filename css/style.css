@@ -1,6 +1,7 @@
 * {
   box-sizing: border-box;
   margin: 0;
+  padding: 0;
 }
 
 body {
@@ -12,5 +13,7 @@ body {
 
 #showcase {
   background-image: url('../img/landimage.jpg');
+  background-size: cover;
+  background-position: center;
   height: 100vh;
 }
