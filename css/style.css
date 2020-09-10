@@ -22,3 +22,7 @@ body {
   align-items: center;
   padding: 0 2rem;
 }
+
+#showcase h1 {
+  font-size: 3rem;
+}
