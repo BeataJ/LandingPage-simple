@@ -33,4 +33,10 @@ body {
 
 #showcase .button {
   font-size: 1.4rem;
+  text-decoration: none;
+  color: #926239;
+  border: #926239 solid .15rem;
+  padding: .5rem 1rem;
+  border-radius: .5rem;
+  margin-top: 2rem;
 }
