@@ -63,8 +63,15 @@ body {
 
 #section-c div {
   padding: 1rem;
+  text-align: center;
 }
 
 #section-c {
   display: flex;
+}
+
+#section-c .box-1,
+#section-c .box-3 {
+  background: #926239;
+  color: #fff;
 }
