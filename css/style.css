@@ -47,3 +47,10 @@ body {
   background: #926239;
   color: #fff;
 }
+
+#section-a {
+  padding: 2rem;
+  background: #926239;
+  color: #fff;
+  text-align: center;
+}
